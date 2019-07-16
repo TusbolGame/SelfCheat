@@ -1,6 +1,26 @@
 # Prerequisites
 *.d
 
+# Driver
+*.Driver
+
+#Log
+*.log
+*.pdb
+*.tlog
+
+*.VC.db
+
+
+# Visual Studio cache directory
+*/.vs/
+*/x64
+*/Debug
+*/Release
+*/ExtopiaCheat/Debug
+*/ExtopiaCheat/Release
+*/ExtopiaCheat/x64
+
 # Compiled Object files
 *.slo
 *.lo

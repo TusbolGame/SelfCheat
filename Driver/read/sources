@@ -1,0 +1,8 @@
+TARGETNAME=mskssrvsdz
+TARGETTYPE=DRIVER
+TARGETPATH=obj
+
+
+INCLUDES=.\
+
+SOURCES = read.c
